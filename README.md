@@ -51,11 +51,11 @@
 > “The quieter you become, the more you can hear.” – Ram Dass
 
 <!-- 🌐 Contact Section -->
-### 🧿 Connect with Me
-<p align="center">
-  <a href="mailto:shalukahhstt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaluka-theshan-a05a5134b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__._s_h_a_l_u_k_a_.__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/CSE_230247T_23" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 <!-- 🎭 Easter Egg -->

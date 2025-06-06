@@ -2,7 +2,7 @@
 
 <!-- 🧠 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Access+Granted...;Welcome+Agent+Shaluka;Initializing+GitHub+Protocol..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Access+Granted...;Welcome+Agent+Shaluka;Initializing+GitHub+Protocol..." />
 </p>
 
 <!-- 🎥 Matrix Rain Background as a GIF -->

@@ -7,7 +7,7 @@
 
 <!-- 🎥 Matrix Rain Background as a GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="matrix background" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="matrix background" width="50%" />
 </p>
 
 <!-- 🎯 Terminal Introduction Block -->

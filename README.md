@@ -18,7 +18,7 @@
 🎓 CSE Undergraduate | 💻 Software Engineer | 🎬 Digital Creator
 
 ⚔️ Obsessed with code, coffee, and creating things that matter.
-💡 Vision: Build innovative tech and start my own company.
+💡 Vision: Build innovative tech with programming.
 
 🧠 Tech Arsenal: Code. Edit. Design. Hack the Matrix.
 ```
